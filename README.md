@@ -2,7 +2,7 @@
 
 ## Project setup
 ```
-npm install
+npm install 大家记得家具滴哦较高的
 ```
 
 ### Compiles and hot-reloads for development
